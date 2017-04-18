@@ -1,1 +1,5 @@
-this doc is created for terminal-git testing
+This doc is created for terminal-git testing.
+
+2017-04-18:
+create a local branch, plan to push local code from zhangxu31's github to Olyffe's github
+
